@@ -2,6 +2,8 @@
 
 This is the place where I opensource stuff and try learning new things 😊
 
+<img src = "https://assets-global.website-files.com/5b69a01ba2e409501de055d1/6565d3c8e5903403b7d4e202_Memory%20retention%20and%20visual%20learning.webp" height = '400' />
+
 ## 👩🏻‍💻 About Me!
 - 📍 I am from <b>Chengdu</b> <img src="https://github.com/sophiesunn1023/sophiesunn1023/assets/96451628/cbfb166e-a6e8-4120-8280-bd88e407bca9" width="14"/>, currently living in <b>Berlin</b> <img src="https://github.com/sophiesunn1023/sophiesunn1023/assets/96451628/634dda9a-402f-4341-b83b-cc9a2ac084ba" width="14"/> 
 - 🔭 I’m currently participating in a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en).
