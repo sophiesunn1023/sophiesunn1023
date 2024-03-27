@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and try learning new things 😊
 
 ## 👩🏻‍💻 About Me!
-- 📍 I am located in Berlin 🇩🇪, originally from Chengdu 🇨🇳 
+- 📍 I am from <b>Chengdu</b> <img src="https://github.com/sophiesunn1023/sophiesunn1023/assets/96451628/cbfb166e-a6e8-4120-8280-bd88e407bca9" width="14"/>, currently living in <b>Berlin</b> <img src="https://github.com/sophiesunn1023/sophiesunn1023/assets/96451628/634dda9a-402f-4341-b83b-cc9a2ac084ba" width="14"/> 
 - 🔭 I’m currently participating in a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en).
 - 🌱 I’m currently learning web development.
 - 📈 Before the bootcamp I worked as data analyst for several years 📈
