@@ -5,6 +5,7 @@ This is the place where I opensource stuff and try learning new things 😊
 - 📍 I am located at Berlin 🇩🇪, originally from 🇨🇳 
 - 🔭 I’m currently participating in a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en).
 - 🌱 I’m currently learning web development.
+- 📈 Before the bootcamp I worked as data analyst for several years 📈
 - ⚡ Fun fact: I attract street dogs 🐾
 
 <!--
