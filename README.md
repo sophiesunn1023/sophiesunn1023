@@ -1,7 +1,11 @@
-# Hi there 👋 
+# 👋 Hi there, I am Yu <img src="https://github.githubassets.com/images/mona-whisper.gif" height="40" />
 
 This is the place where I opensource stuff and try learning new things 😊
 
+- 📍 I am located at Berlin 🇩🇪, originally from 🇨🇳 
+- 🔭 I’m currently participating in a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en).
+- 🌱 I’m currently learning web development.
+- ⚡ Fun fact: I attract street dogs 🐾
 
 <!--
 **sophiesunn1023/sophiesunn1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
